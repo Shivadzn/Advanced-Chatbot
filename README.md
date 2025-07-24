@@ -6,7 +6,7 @@ A modern, full-stack conversational AI application featuring voice input/output,
 
 Watch a quick demo of the chatbot in action:
 
-[![Chatbot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=sinhAaDLKyw)
+[![Chatbot Demo](https://img.youtube.com/vi/watch?v=sinhAaDLKyw/0.jpg)](https://www.youtube.com/watch?v=sinhAaDLKyw)
 
 *Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.*
 
