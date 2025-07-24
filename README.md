@@ -146,7 +146,7 @@ curl -X POST http://localhost:7860/get_history/ \
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone <https://github.com/Shivadzn/Advanced-Chatbot.git>
    cd advanced-chatbot
    ```
 
@@ -336,7 +336,8 @@ This project is licensed under the MIT License. See the [LICENSE](MIT) file for 
 - **Documentation**: Check our [docs](./docs/) folder
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
+- **Linkedin**: [Connect with me](https://www.linkedin.com/in/shiva-gupta-a70190234/)
 
 ---
 
-**Built with ❤️ by the development team**
+**Built with ❤️ by SHIVA JAISWAL**
