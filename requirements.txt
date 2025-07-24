@@ -1,0 +1,17 @@
+# Core FastAPI dependencies (keeping your original structure)
+fastapi
+uvicorn
+pydantic
+requests
+python-dotenv
+
+# LangChain essentials (minimal set)
+langchain
+langchain-community
+huggingface-hub
+
+# Keep transformers and torch for compatibility
+transformers
+torch
+sqlalchemy
+aiosqlite

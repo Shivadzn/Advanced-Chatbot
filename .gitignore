@@ -1,0 +1,33 @@
+# Node/Vite/React
+ui/node_modules/
+ui/dist/
+ui/.env
+ui/.env.*
+ui/bun.lockb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Build & IDE
+.DS_Store
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Databases & Artifacts
+chatbot.db
+
+# OS
+Thumbs.db
+
+# Ignore lock files for unused package managers
+ui/pnpm-lock.yaml
+ui/yarn.lock
+
+# Ignore test coverage
+coverage/
