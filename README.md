@@ -6,7 +6,7 @@ A modern, full-stack conversational AI application featuring voice input/output,
 
 Watch a quick demo of the chatbot in action:
 
-[![Chatbot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Chatbot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=sinhAaDLKyw)
 
 *Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.*
 
@@ -314,7 +314,7 @@ We welcome contributions! Here's how to get started:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](MIT) file for details.
 
 ---
 
@@ -327,8 +327,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **[Tailwind CSS](https://tailwindcss.com/)** - Styling framework
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Backend framework
 - **[React](https://react.dev/)** & **[Vite](https://vitejs.dev/)** - Frontend tools
-
-Special thanks to the open-source community and all contributors who made this project possible.
 
 ---
 
